@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Aaryan Raj</h1>
+<h1 align="center">Aaryan Raj</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Backend+%26+AI+Engineer;Building+Scalable+Systems;Designing+Production-Grade+ML+Pipelines;Focused+on+System+Design+%26+ML+Engineering" />
+  Backend & AI Engineer • Scalable Systems • ML & LLM Applications
 </p>
 
 <p align="center">
@@ -10,115 +10,97 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About
 
-- 🔭 Currently building **Production-Grade Backend Systems**
-- 🤖 Developing **End-to-End ML Pipelines with Deployment**
-- 🧠 Focused on **System Design, Scalability & Clean Architecture**
-- 🌱 Currently learning **Distributed Systems & LLM Engineering**
-- 🎯 Mission: Become a high-impact engineer building intelligent large-scale systems
-- 📫 Reach me at: **raj.0123.aaryan.work@gmail.com**
+Engineer focused on building production-grade backend systems and intelligent ML/LLM-powered applications.
 
----
+- Scalable API architecture
+- Secure authentication & RBAC
+- Transaction-safe database design
+- End-to-end ML pipelines
+- AI-driven application engineering
 
-## 🎯 Mission
+Currently deepening expertise in distributed systems, LLM engineering, and high-performance backend architecture.
 
-I am focused on building:
-
-- ⚙️ Scalable backend architectures  
-- 🤖 Production-ready ML systems  
-- 🧠 AI-driven intelligent applications  
-- 🚀 High-performance distributed systems  
+📫 **raj.0123.aaryan.work@gmail.com**
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Core Stack
 
-### ⚙️ Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
+### ⚙ Backend Engineering
+Python • FastAPI • Async SQLAlchemy • PostgreSQL • Alembic  
+JWT (OAuth2) • Argon2 • REST APIs • Transaction Management  
+Docker • Clean Architecture
 
-### 🤖 Machine Learning
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
+### 🤖 AI / ML / LLM Engineering
+Scikit-learn • XGBoost • Pandas • NumPy  
+MLflow • SHAP • Model Deployment with FastAPI  
+RAG Concepts • Vector Search Fundamentals
 
-### 🗄 Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+### 🌐 Application Layer
+JavaScript (ES6+) • React.js  
+API Integration • State Management Basics
 
-### 🚀 DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🧱 Infrastructure & Tools
+Docker • Linux • Git • Redis
 
 ---
 
-## 📌 Featured Projects
+## 📌 Selected Projects
 
-### 🔐 Blog API with Role-Based Access Control
-- JWT Authentication & RBAC
-- PostgreSQL relational schema
-- Comments & Likes system
+### 🏥 Production-Grade Hospital Appointment & Management System
+**Tech Stack:** Python, FastAPI, PostgreSQL, Async SQLAlchemy, Alembic, JWT (OAuth2), Argon2, Pydantic, Docker
+
+- Designed scalable backend architecture with modular service layers
+- Implemented JWT authentication & role-based access control (Patient/Doctor/Admin)
+- Built concurrency-safe appointment booking engine preventing double bookings
+- Designed normalized relational schema with optimized indexing
+- Integrated Alembic for production-grade database migrations
+- Structured for extensibility (caching, background jobs, audit logs)
+
+---
+
+### 🔐 Blog API with Role-Based Access
+- Secure JWT authentication
+- RBAC authorization model
+- Relational schema with foreign keys
 - Aggregation queries & pagination
+- Clean modular backend architecture
+
+---
 
 ### 🤖 Customer Churn Prediction Pipeline
-- End-to-End ML pipeline (Ingestion → Training → Deployment)
-- XGBoost with MLflow tracking
+- Modular ML pipeline (Ingestion → Validation → Training → Deployment)
+- Model comparison (Logistic Regression, RandomForest, XGBoost)
+- MLflow experiment tracking
 - SHAP explainability
 - FastAPI real-time inference API
 
 ---
 
-## 📊 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aaryanraj0123&theme=algolia&no-frame=true&margin-w=15" />
-</p>
-
----
-
-## 📈 GitHub Stats
+## 📊 GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aaryanraj0123&show_icons=true&theme=tokyonight" />
 </p>
 
+---
+
+## 🧠 LeetCode
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaryanraj0123&theme=tokyonight" />
+  <img src="https://leetcard.jacoblin.cool/aaryanraj0123?theme=dark&font=Baloo" />
 </p>
 
 ---
 
-## 📊 Contribution Graph
+## 🌐 Connect
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaryanraj0123&theme=tokyo-night" />
-</p>
-
----
-
-## 🧠 LeetCode Progress
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/aaryanraj0123?theme=dark&font=Baloo&ext=contest" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
 <a href="https://linkedin.com/in/aaryan-raj-" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" />
+LinkedIn
 </a>
-</p>
 
 ---
 
-⭐ Push and Pass Your Limits. 🚀
+Building real systems. Scaling intelligently. 🚀
