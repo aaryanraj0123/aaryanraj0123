@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaryan Raj</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Backend+%26+AI+Engineer;Building+Scalable+Systems;Designing+Production-Grade+ML+Pipelines;%2B+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Backend+%26+AI+Engineer;Building+Scalable+Systems;Designing+Production-Grade+ML+Pipelines;%2BSoftware+Engineer" />
 </p>
 
 <p align="center">
