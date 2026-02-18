@@ -78,7 +78,7 @@ I am focused on building:
 ## 📊 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aaryanraj0123&theme=algolia&no-frame=true&margin-w=15" />
 </p>
 
 ---
@@ -86,11 +86,11 @@ I am focused on building:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aaryanraj0123&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaryanraj0123&theme=tokyonight" />
 </p>
 
 ---
@@ -98,7 +98,7 @@ I am focused on building:
 ## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaryanraj0123&theme=tokyo-night" />
 </p>
 
 ---
@@ -121,4 +121,4 @@ I am focused on building:
 
 ---
 
-⭐ Keep Learning. 🚀
+⭐ Push and Pass Your Limits. 🚀
