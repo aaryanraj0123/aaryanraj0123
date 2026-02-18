@@ -103,13 +103,20 @@ I am focused on building:
 
 ---
 
+## 🧠 LeetCode Progress
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/aaryanraj0123?theme=dark&font=Baloo&ext=contest" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/aaryan-raj-" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" />
 </a>
-
 </p>
 
 ---
