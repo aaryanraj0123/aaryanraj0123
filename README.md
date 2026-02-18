@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=aaryanraj0123&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 - 🧠 Focused on **System Design, Scalability & Clean Architecture**
 - 🌱 Currently learning **Distributed Systems & LLM Engineering**
 - 🎯 Mission: Become a high-impact engineer building intelligent large-scale systems
-- 📫 Reach me at: **example@gmail.com**
+- 📫 Reach me at: **raj.0123.aaryan.work@gmail.com**
 
 ---
 
@@ -106,15 +106,12 @@ I am focused on building:
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/yourusername" target="blank">
+<a href="https://linkedin.com/in/aaryan-raj-" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" />
 </a>
 
-<a href="https://twitter.com/yourusername" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="30" />
-</a>
 </p>
 
 ---
 
-⭐ Always building. Always improving. 🚀
+⭐ Keep Learning. 🚀
