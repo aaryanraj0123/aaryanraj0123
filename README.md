@@ -1,66 +1,89 @@
 <h1 align="center">Hi 👋, I'm Aaryan Raj</h1>
-<h3 align="center">Backend & AI Engineer focused on scalable systems, ML pipelines, and clean architecture</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Backend+%26+AI+Engineer;Building+Scalable+Systems;Designing+Production-Grade+ML+Pipelines;Future+1Cr%2B+Software+Engineer" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently building production-grade backend systems using FastAPI & PostgreSQL
-- 🤖 Developing end-to-end ML pipelines with model tracking and deployment
-- 🧠 Focused on System Design, Scalability, and Production Engineering
-- 🌱 Currently learning Distributed Systems, Advanced ML, and LLM Engineering
-- 🎯 Long-term goal: Become a high-impact software engineer building large-scale intelligent systems
-- 📫 Reach me at: example@gmail.com
+- 🔭 Currently building **Production-Grade Backend Systems**
+- 🤖 Developing **End-to-End ML Pipelines with Deployment**
+- 🧠 Focused on **System Design, Scalability & Clean Architecture**
+- 🌱 Currently learning **Distributed Systems & LLM Engineering**
+- 🎯 Mission: Become a high-impact engineer building intelligent large-scale systems
+- 📫 Reach me at: **example@gmail.com**
 
 ---
 
-## 🛠 Core Expertise
+## 🎯 Mission
 
-### ⚙️ Backend Engineering
-- FastAPI, REST APIs
-- PostgreSQL, SQLAlchemy
-- Authentication & RBAC
-- Concurrency & Transaction Safety
-- Clean Architecture
+I am focused on building:
 
-### 🤖 Machine Learning Engineering
-- End-to-End ML Pipelines
-- Model Evaluation & Experiment Tracking (MLflow)
-- XGBoost, Scikit-learn
-- SHAP Explainability
-- FastAPI Model Deployment
+- ⚙️ Scalable backend architectures  
+- 🤖 Production-ready ML systems  
+- 🧠 AI-driven intelligent applications  
+- 🚀 High-performance distributed systems  
 
-### 🧱 Databases
-- PostgreSQL
-- Redis
-- MongoDB
+---
+
+## 🛠 Tech Stack
+
+### ⚙️ Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
+
+### 🤖 Machine Learning
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
+
+### 🗄 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 
 ### 🚀 DevOps & Tools
-- Docker
-- Git
-- Linux
-- Postman
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔐 Blog API with Role-Based Access
-- JWT-based authentication & RBAC
-- Relational schema with foreign keys
-- Aggregation queries for engagement metrics
-- Pagination & optimized queries
+### 🔐 Blog API with Role-Based Access Control
+- JWT Authentication & RBAC
+- PostgreSQL relational schema
+- Comments & Likes system
+- Aggregation queries & pagination
 
-### 🤖 Customer Churn Prediction (End-to-End ML Pipeline)
-- Modular ML pipeline (Ingestion → Validation → Training → Deployment)
-- Model comparison (RandomForest, XGBoost, LogisticRegression)
-- MLflow experiment tracking
-- SHAP-based explainability
-- FastAPI inference API deployment
+### 🤖 Customer Churn Prediction Pipeline
+- End-to-End ML pipeline (Ingestion → Training → Deployment)
+- XGBoost with MLflow tracking
+- SHAP explainability
+- FastAPI real-time inference API
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
@@ -72,4 +95,26 @@
 
 ---
 
-⭐️ Always building. Always improving.
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/yourusername" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" />
+</a>
+
+<a href="https://twitter.com/yourusername" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="30" />
+</a>
+</p>
+
+---
+
+⭐ Always building. Always improving. 🚀
