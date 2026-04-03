@@ -1,7 +1,7 @@
 <h1 align="center">Aaryan Raj</h1>
 
 <p align="center">
-  Backend & AI Engineer • Scalable Systems • ML & LLM Applications
+  Backend & AI Engineer • Scalable Systems • ML & LLM Applications • Open-Source Developer
 </p>
 
 <p align="center">
